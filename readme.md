@@ -11,7 +11,7 @@ An investigation of real-world/realistic cities represented in open-world games,
 
 - All GTAs (since GTA III, basically)
 - Spiderman
-- Batmans'?
+- Batmans?
 - Assassins Creed (for historical data)
 - Watch Dogs
 - Saints Row
@@ -23,6 +23,8 @@ An investigation of real-world/realistic cities represented in open-world games,
 - Euro/American Truck Simulator
 - Yakuza
 - Medal of Honor
+- Microsoft Flight Simulator (and others)
+- Train Simulator
 
 ## How to export the data
 
