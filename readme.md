@@ -27,3 +27,10 @@ An investigation of real-world/realistic cities represented in open-world games,
 ## How to export the data
 
 We need to find modding tools
+
+## GTA V
+
+Has a very extensive community of tools and mods to investigate.
+
+Resources:
+- [Digestible GTA:V Mapping Document](https://docs.google.com/document/d/1wBFLnQzksT9B1dobl1anDbc4L-CRLQyBF4Z7cY3X_SM/edit#heading=h.vzlyshd587wh)
