@@ -22,6 +22,7 @@ An investigation of real-world/realistic cities represented in open-world games,
 - The Division
 - Euro/American Truck Simulator
 - Yakuza
+- Medal of Honor
 
 ## How to export the data
 
