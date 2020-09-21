@@ -10,7 +10,7 @@ An investigation of cities represented in open-world games, where visualisation 
 ## Games to look at
 
 - All GTAs (since GTA III, basically)
-- Superman
+- Spiderman
 - Batmans'?
 - Assassins Creed (for historical data)
 - Watch Dogs
