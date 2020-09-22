@@ -36,3 +36,4 @@ Has a very extensive community of tools and mods to investigate.
 
 Resources:
 - [Digestible GTA:V Mapping Document](https://docs.google.com/document/d/1wBFLnQzksT9B1dobl1anDbc4L-CRLQyBF4Z7cY3X_SM/edit#heading=h.vzlyshd587wh)
+- [GTA V Graphics Study](http://www.adriancourreges.com/blog/2015/11/02/gta-v-graphics-study/)
